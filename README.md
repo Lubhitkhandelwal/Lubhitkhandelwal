@@ -10,7 +10,7 @@ writing the backend, shipping the frontend, and deploying it live.
 
 ## 🚀 What I'm Working On
 
-- 🏥 **[Khandelwal Medicals](https://khandelwalmedicalskumher.netlify.app/)** — A live full-stack pharmacy ordering platform (Node.js + PostgreSQL + Vanilla JS)
+- 🏥 **[Khandelwal Medicals](https://khandelwalmedicals.khandelwallubhit10.workers.dev/)** — A live full-stack pharmacy ordering platform (Node.js + PostgreSQL + Vanilla JS)
 - 🧠 **Deep Learning for Alzheimer Detection** — Research paper accepted at IEEE ICCBI 2026
 - 📊 **AI Financial Dashboard** — RAG pipeline + ARIMA forecasting + Gemini AI
 
