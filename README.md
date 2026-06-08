@@ -57,7 +57,7 @@ writing the backend, shipping the frontend, and deploying it live.
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🏥 Khandelwal Medicals | Production pharmacy ordering platform | Node.js, PostgreSQL, JS | [Live](https://khandelwalmedicalskumher.netlify.app/) · [Repo](https://github.com/Lubhitkhandelwal/Khandelwal-medicals) |
+| 🏥 Khandelwal Medicals | Production pharmacy ordering platform | Node.js, PostgreSQL, JS | [Live](https://khandelwalmedicals.in/) · [Repo](https://github.com/Lubhitkhandelwal/Khandelwal-medicals) |
 | 📊 Financial Dashboard | AI analytics with RAG + forecasting | Python, Gemini, ARIMA | [Repo](https://github.com/Lubhitkhandelwal/Financial-Dashboard) |
 
 ---
