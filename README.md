@@ -1,73 +1,323 @@
-# Hi, I'm Lubhit Khandelwal 👋
+<div align="center">
 
-> Final-year CSE student at Bennett University · Builder · Problem Solver · AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Lubhit%20Khandelwal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Product%20Builder&descAlignY=58"/>
 
-I build things that actually work — from production pharmacy platforms serving real customers  
-to AI-powered analytics dashboards. I enjoy the full journey: designing the architecture,  
-writing the backend, shipping the frontend, and deploying it live.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Final-Year+CSE+Student+at+Bennett+University;Building+Production-Grade+Software;IEEE+ICCBI+2026+Research+Author;Full-Stack+Developer+%7C+Backend+Engineer+%7C+AI+Engineer;Turning+Ideas+Into+Real-World+Products"/>
 
----
+<br>
 
-## 🚀 What I'm Working On
+![](https://img.shields.io/badge/Bennett_University-CSE-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-9.32%2F10-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/IEEE_ICCBI_2026-Paper_Accepted-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Production-Software_Engineer-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/DSA-300%2B_Problems-8B5CF6?style=for-the-badge)
 
-- 🏥 **[Khandelwal Medicals](https://khandelwalmedicals.in/)** — A live full-stack pharmacy ordering platform (Node.js + PostgreSQL + Vanilla JS)
-- 🧠 **Deep Learning for Alzheimer Detection** — Research paper accepted at IEEE ICCBI 2026
-- 📊 **AI Financial Dashboard** — RAG pipeline + ARIMA forecasting + Gemini AI
+<br><br>
 
----
+<a href="https://khandelwalmedicals.in">
+<img src="https://img.shields.io/badge/Portfolio-Khandelwal_Medicals-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/lubhit-khandelwal-4a037628a">
+<img src="https://img.shields.io/badge/LinkedIn-Lubhit_Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<a href="mailto:khandelwallubhit10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<a href="https://github.com/Lubhitkhandelwal">
+<img src="https://img.shields.io/badge/GitHub-LubhitKhandelwal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+<a href="https://codolio.com/profile/Lubhit_Khandelwal">
+<img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
+</a>
 
-**AI / Data Science**  
-![Python](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-
-**Cloud & Tools**  
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+# About Me
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🏥 Khandelwal Medicals | Production pharmacy ordering platform | Node.js, PostgreSQL, JS | [Live](https://khandelwalmedicals.in/) · [Repo](https://github.com/Lubhitkhandelwal/Khandelwal-medicals) |
-| 📊 Financial Dashboard | AI analytics with RAG + forecasting | Python, Gemini, ARIMA | [Repo](https://github.com/Lubhitkhandelwal/Financial-Dashboard) |
+Final-year Computer Science Engineering student at **Bennett University (CGPA: 9.32/10)** with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
+
+I enjoy building software that solves real-world problems. My work spans backend engineering, full-stack development, applied AI, and product development. I have designed, developed, and deployed a production-grade pharmacy platform serving real customers, as well as AI-powered analytics applications integrating Retrieval-Augmented Generation (RAG), forecasting models, and modern LLMs.
+
+Beyond academics, I have solved **300+ DSA problems** and actively explore how AI tools such as **Gemini, Claude, and GitHub Copilot** can accelerate software development workflows.
+
+### Currently Interested In
+
+* Software Engineering
+* Backend Development
+* Full-Stack Systems
+* AI Engineering
+* Product Development
+* Scalable System Design
+
+### Open To
+
+* Software Engineering Internships
+* Backend Engineering Roles
+* Full-Stack Development
+* AI Engineering Opportunities
+* Research Collaborations
 
 ---
 
-## 📫 Connect
+# Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubhit-khandelwal-4a037628a)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khandelwallubhit10@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=flat&logo=code&logoColor=white)](https://codolio.com/profile/Lubhit_Khandelwal)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,supabase,vscode"/>
+</p>
+
+### AI / Data Science
+
+* Pandas
+* NumPy
+* Streamlit
+* Statsmodels
+* Matplotlib
+* Seaborn
+* Google Gemini
+* RAG Pipelines
+* ARIMA Forecasting
 
 ---
 
-*"Build fast, ship real, learn always."*
+# Publications & Research
+
+## Deep Learning Model for Alzheimer Disease Detection
+
+**Accepted at IEEE ICCBI 2026**
+
+**Publication Partners**
+
+* IEEE ComSoc
+* IEEE Xplore
+
+**Research Areas**
+
+* Deep Learning
+* Computer Vision
+* Medical Imaging
+* Healthcare AI
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🏥 Khandelwal Medicals — Production Pharmacy Platform</b></summary>
+
+<br>
+
+A fully deployed pharmacy ordering ecosystem built for real-world usage, serving actual customers and handling end-to-end order management workflows.
+
+| Category       | Details                                                 |
+| -------------- | ------------------------------------------------------- |
+| Stack          | Node.js, Express.js, PostgreSQL, Prisma ORM, JavaScript |
+| Infrastructure | Railway, Cloudflare Pages, Cloudinary                   |
+| Scale          | Production Deployment                                   |
+| Security       | Admin Authentication & Protected APIs                   |
+| Impact         | Digital Pharmacy Operations                             |
+| Repository     | https://github.com/Lubhitkhandelwal/Khandelwal-medicals |
+
+### Highlights
+
+* Designed and deployed a production-grade pharmacy platform.
+* Architected backend APIs using Node.js and Express.js.
+* Implemented prescription upload workflows using Cloudinary.
+* Integrated GPS location capture and OpenStreetMap geocoding.
+* Built real-time admin dashboard with order monitoring.
+* Added browser notifications and automated delivery support.
+
+**Live:** https://khandelwalmedicals.in
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🧠 Deep Learning Model for Alzheimer Disease Detection</b></summary>
+
+<br>
+
+Research-focused deep learning solution for early-stage Alzheimer disease detection using medical imaging and neural network architectures.
+
+| Category      | Details                         |
+| ------------- | ------------------------------- |
+| Domain        | Healthcare AI                   |
+| Publication   | IEEE ICCBI 2026                 |
+| Status        | Accepted                        |
+| Research Area | Deep Learning & Computer Vision |
+| Impact        | AI for Healthcare               |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📊 AI Financial Intelligence Dashboard</b></summary>
+
+<br>
+
+AI-powered analytics platform combining forecasting models and Retrieval-Augmented Generation.
+
+| Category    | Details                                                 |
+| ----------- | ------------------------------------------------------- |
+| Stack       | Python, Streamlit, Gemini, ARIMA                        |
+| AI Layer    | Dynamic RAG Pipeline                                    |
+| Forecasting | ARIMA Time-Series Models                                |
+| Reporting   | Automated PDF Generation                                |
+| Repository  | https://github.com/Lubhitkhandelwal/Financial-Dashboard |
+
+### Highlights
+
+* Built context-aware financial intelligence system.
+* Implemented Dynamic RAG architecture.
+* Integrated Google Gemini.
+* Developed ARIMA forecasting pipeline.
+* Created KPI dashboards and automated reports.
+
+</details>
+
+---
+
+# Certifications
+
+### NVIDIA
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Accelerated_Computing_with_CUDA_C++-76B900?style=for-the-badge\&logo=nvidia)
+
+### IBM
+
+![IBM](https://img.shields.io/badge/IBM-Databases_and_SQL_for_Data_Science-052FAD?style=for-the-badge\&logo=ibm)
+
+---
+
+# Achievements
+
+* Solved **300+ DSA problems** across arrays, trees, graphs, dynamic programming, and greedy algorithms.
+* Built and deployed a **production-grade pharmacy platform** serving real customers.
+* Research paper accepted at **IEEE ICCBI 2026**.
+* Participated in **Smart India Hackathon**, **CyberCup**, and **Haccachino**.
+* Strong academic performance with **9.32 CGPA**.
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lubhitkhandelwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubhitkhandelwal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lubhitkhandelwal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lubhitkhandelwal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design
+  - Backend Architecture
+  - Distributed Systems
+  - AI Agents
+  - LLM Engineering
+
+Building:
+  - Khandelwal Medicals
+  - AI-Powered Applications
+  - Full-Stack SaaS Products
+
+Exploring:
+  - Retrieval-Augmented Generation
+  - AI Infrastructure
+  - Cloud Platforms
+  - Production Engineering
+
+Open_To:
+  - SWE Internships
+  - Backend Roles
+  - Full-Stack Opportunities
+  - AI Engineering Roles
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:khandelwallubhit10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-khandelwallubhit10%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lubhit-khandelwal-4a037628a">
+<img src="https://img.shields.io/badge/LinkedIn-Lubhit_Khandelwal-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Lubhitkhandelwal">
+<img src="https://img.shields.io/badge/GitHub-LubhitKhandelwal-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://codolio.com/profile/Lubhit_Khandelwal">
+<img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Build fast. Ship real. Learn always."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
