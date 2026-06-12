@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="https://khandelwalmedicals.in">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-Khandelwal_Medicals-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
