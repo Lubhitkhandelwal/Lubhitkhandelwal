@@ -14,8 +14,8 @@
 
 <br><br>
 
-<a href="">
-<img src="https://img.shields.io/badge/Portfolio-Khandelwal_Medicals-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://khandelwalmedicals.in">
+<img src="https://img.shields.io/badge/Product-Khandelwal_Medicals-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lubhit-khandelwal-4a037628a">
